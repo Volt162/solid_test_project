@@ -6,4 +6,4 @@ Project created via 📖 template for flutter projects using solid_lints, CI for
 - Organization from your profile email address or default
 
 # Features
- The application displays the text "Hello there" in the middle of the screen and after tapping anywhere on the screen, a background color changes to a randomly generated color and the text color is changes to the opposite color.
+ The application displays the text "Hello there" in the middle of the screen and after tapping anywhere on the screen, a background color changes to a randomly generated color and the text color changes to the opposite color.
